@@ -1,0 +1,11 @@
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/bin/Debug/netcoreapp2.2/numberpicker2practice.deps.json
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/bin/Debug/netcoreapp2.2/numberpicker2practice.runtimeconfig.json
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/bin/Debug/netcoreapp2.2/numberpicker2practice.runtimeconfig.dev.json
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/bin/Debug/netcoreapp2.2/numberpicker2practice.dll
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/bin/Debug/netcoreapp2.2/numberpicker2practice.pdb
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.csprojAssemblyReference.cache
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.csproj.CoreCompileInputs.cache
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.AssemblyInfoInputs.cache
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.AssemblyInfo.cs
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.dll
+/Users/frankdiaz/sdg/unit-iii/numberpicker2practice/obj/Debug/netcoreapp2.2/numberpicker2practice.pdb
